@@ -46,8 +46,8 @@ public class Country {
                 "\n\tAria: " + this.getArea() + " - independence year: " + this.getIndependence() +
                 "\n\tPopulation: " + this.getPopulation() +
                 "\n\tHead of State: " + this.getHeadOfState() +
-                "\n\tDensity: " + getPopulationDensity() +
-                "\n\tRural population: " + getRuralPopulation() +
+                "\n\tDensity: " + getPopulationDensity() + " person/square meter " +
+                "\n\tRural population: " + getRuralPopulation() + " % " +
                 "\n\tCities as follows: \n "+ this.getCities());
     }
 
