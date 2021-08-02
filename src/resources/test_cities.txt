@@ -1,0 +1,23 @@
+Belize City,BLZ,55810
+Belmopan,BLZ,7105
+Minsk,BLR,1674000
+Gomel,BLR,475000
+Sarajevo,BIH,360000
+Banja Luka,BIH,143079
+Zenica,BIH,96027
+Nassau,BHS,172000
+Baku,AZE,1787800
+Gäncä,AZE,299300
+Sumqayit,AZE,283000
+Mingäçevir,AZE,93900
+Budapest,HUN,1811552
+Debrecen,HUN,203648
+Miskolc,HUN,172357
+Szeged,HUN,158158
+Pécs,HUN,157332
+Györ,HUN,127119
+Nyiregyháza,HUN,112419
+Kecskemét,HUN,105606
+Székesfehérvár,HUN,105119
+Freetown,SLE,850000
+al-Manama,BHR,148000

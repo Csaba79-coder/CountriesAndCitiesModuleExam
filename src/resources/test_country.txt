@@ -1,0 +1,8 @@
+HUN,Hungary,Europe,Eastern Europe,93030.00,1918,10043200,Ferenc Mádl
+AZE,Azerbaijan,Asia,Middle East,86600.00,1991,7734000,Heydär Äliyev
+BHS,Bahamas,North America,Caribbean,13878.00,1973,307000,Elisabeth II
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,51197.00,1992,3972000,Ante Jelavic
+BLR,Belarus,Europe,Eastern Europe,207600.00,1991,10236000,Aljaksandr Lukašenka
+BLZ,Belize,North America,Central America,22696.00,1981,241000,Elisabeth II
+SLE,Sierra Leone,Africa,Western Africa,71740.00,1961,4854000,Ahmed Tejan Kabbah
+BHR,Bahrain,Asia,Middle East,694.00,1971,617000,Hamad ibn Isa al-Khalifa
