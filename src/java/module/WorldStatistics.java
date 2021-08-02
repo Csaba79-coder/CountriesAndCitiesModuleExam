@@ -158,7 +158,7 @@ public class WorldStatistics {
         int max = findMax();
         for (Country country : countries) {
             if (max == country.getIndependence()) {
-                return country.getName();
+                return country.getCodeOfCountry();
             }
         }
         return null;
