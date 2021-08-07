@@ -2,7 +2,6 @@ package modell;
 
 import module.WorldStatistics;
 
-import javax.swing.plaf.ColorUIResource;
 import java.util.List;
 
 public class City {
@@ -23,6 +22,7 @@ public class City {
         this.name = name;
         this.code = code;
         this.population = Integer.parseInt(population);
+        this.populationPercentage = getPopulationPercentage();
     }
 
     @ Override
